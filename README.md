@@ -5,3 +5,7 @@ Usage:
 ```markdown
 python3 phonenumber.py <number> 
 ```
+Example: 
+```markdown
+python3 phonenumber.py +917428723247
+```
